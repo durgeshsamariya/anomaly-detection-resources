@@ -88,6 +88,7 @@ Table of Contents
   * `4.18. Fairness and Bias in Outlier Detection <#418-fairness-and-bias-in-outlier-detection>`_
   * `4.19. Isolation-based Methods <#419-isolation-based-methods>`_
   * `4.20. Emerging and Interesting Topics <#420-emerging-and-interesting-topics>`_
+  * `4.21. Outlying Aspect Mining <#421-outlying-aspect-mining>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -517,7 +518,7 @@ SSD: A Unified Framework for Self-Supervised Outlier Detection                  
 
 
 4.21. Outlying Aspect Mining
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
