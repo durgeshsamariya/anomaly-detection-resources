@@ -516,6 +516,17 @@ SSD: A Unified Framework for Self-Supervised Outlier Detection                  
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
+4.21. Outlying Aspect Mining
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Mining outlying aspects on numeric data                                                            DMKD                          2015   [#Duan2015OAMiner]_         `[PDF] <https://sfb876.tu-dortmund.de/PublicPublicationFiles/duan_etal_2015a.pdf>`_
+Discovering outlying aspects in large datasets                                                     DMKD                          2016   [#Vinh2016Beam]_     `[PDF] <https://minerva-access.unimelb.edu.au/bitstream/handle/11343/283146/10618_2016_453_ReferencePDF.pdf?sequence=1&isAllowed=y>`_
+A new effective and efficient measure for outlying aspect mining                                   WISE                          2020   [#Samariya2020SiNNE]_             `[PDF] <https://link.springer.com/chapter/10.1007/978-3-030-62008-0_32>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
 ----
 
 5. Key Conferences/Workshops/Journals
@@ -620,6 +631,8 @@ References
 
 .. [#Domingues2018A] Domingues, R., Filippone, M., Michiardi, P. and Zouaoui, J., 2018. A comparative evaluation of outlier detection algorithms: Experiments and analyses. *Pattern Recognition*, 74, pp.406-421.
 
+.. [#Duan2015OAMiner]Duan, L., Tang, G., Pei, J., Bailey, J., Campbell, A., & Tang, C. (2015). Mining outlying aspects on numeric data. Data Mining and Knowledge Discovery, 29(5), 1116-1151.
+
 .. [#Emmott2015A] Emmott, A., Das, S., Dietterich, T., Fern, A. and Wong, W.K., 2015. A meta-analysis of the anomaly detection problem. arXiv preprint arXiv:1503.01158.
 
 .. [#Ergen2019Unsupervised] Ergen, T. and Kozat, S.S., 2019. Unsupervised Anomaly Detection With LSTM Neural Networks. *IEEE transactions on neural networks and learning systems*.
@@ -706,6 +719,8 @@ References
 
 .. [#Salehi2021A] Salehi, M., Mirzaei, H., Hendrycks, D., Li, Y., Rohban, M.H., Sabokrou, M., 2021. A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges. arXiv preprint arXiv:2110.14051.
 
+.. [#Samariya2020SiNNE]Samariya, D., Aryal, S., Ting, K. M., & Ma, J. (2020, October). A new effective and efficient measure for outlying aspect mining. In International Conference on Web Information Systems Engineering (pp. 463-474). Springer, Cham.
+
 .. [#Scholkopf2001Estimating] Schölkopf, B., Platt, J.C., Shawe-Taylor, J., Smola, A.J. and Williamson, R.C., 2001. Estimating the support of a high-dimensional distribution. *Neural Computation*, 13(7), pp.1443-1471.
 
 .. [#Sehwag2021SSD] Sehwag, V., Chiang, M., Mittal, P., 2021. SSD: A Unified Framework for Self-Supervised Outlier Detection. *International Conference on Learning Representations (ICLR)*.
@@ -723,6 +738,8 @@ References
 .. [#Ting2018Which] Ting, KM., Aryal, S. and Washio, T., 2018, Which Anomaly Detector should I use? *Tutorial at ICDM 2018*.
 
 .. [#Ting2020Isolation] Ting, Kai Ming, Bi-Cun Xu, Takashi Washio, and Zhi-Hua Zhou. "Isolation Distributional Kernel: A New Tool for Kernel based Anomaly Detection." In *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*, pp. 198-206. 2020.
+
+.. [#Vinh2016Beam]Vinh, N. X., Chan, J., Romano, S., Bailey, J., Leckie, C., Ramamohanarao, K., & Pei, J. (2016). Discovering outlying aspects in large datasets. Data mining and knowledge discovery, 30(6), 1520-1555.
 
 .. [#Wang2019Effective] Wang, S., Zeng, Y., Liu, X., Zhu, E., Yin, J., Xu, C. and Kloft, M., 2019. Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network. In *33rd Conference on Neural Information Processing Systems*.
 
